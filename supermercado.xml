@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<consum>
+	<productos>
+		<nombre>tofu</nombre>
+		<oferta>true</oferta>
+		<vigenciaOferta>01/03/23-05/03/23</vigenciaOferta>
+		<ConsumoHabitual>true</ConsumoHabitual>
+		<unidades>2</unidades>
+		<unidadMedida>kilos</unidadMedida>
+		<precio>3</precio>
+		<adquirido>true</adquirido>
+	</productos>
+	<productos>
+		<nombre>pan</nombre>
+		<oferta>false</oferta>
+		<ConsumoHabitual>true</ConsumoHabitual>
+		<unidadMedida>gramos</unidadMedida>
+		<precio>1</precio>
+		<adquirido>true</adquirido>
+	</productos>
+	<productos>
+		<nombre>yogur</nombre>
+		<oferta>false</oferta>
+		<ConsumoHabitual>true</ConsumoHabitual>
+		<unidadMedida>unidades</unidadMedida>
+		<precio>2</precio>
+		<adquirido>false</adquirido>
+	</productos>
+</consum>

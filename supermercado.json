@@ -1,0 +1,115 @@
+{   
+   "Consum": [
+      {
+        "productos": [
+          {
+            "nombre": "tofu",
+            "oferta": true,
+            "vigenciaOferta": [
+              "01/03/23",
+              "05/03/23"
+            ],
+            "ConsumoHabitual": true,
+            "unidades": 2,
+            "unidadMedida": "kilos",
+            "precio": 3,
+            "adquirido": true
+          },
+          {
+            "nombre": "pan",
+            "oferta": false,
+            "ConsumoHabitual": true,
+            "unidadMedida": "gramos",
+            "precio": 1,
+            "adquirido": true
+          },
+          {
+            "nombre": "yogur",
+            "oferta": false,
+            "ConsumoHabitual": true,
+            "unidadMedida": "unidades",
+            "precio": 2,
+            "adquirido": false
+          }
+        ]
+      }
+    ],
+    "Aldi": [
+      {
+        "productos": [
+          {
+            "nombre": "aceite",
+            "oferta": false,
+            "ConsumoHabitual": true,
+            "unidades": 1,
+            "unidadMedida": "litros",
+            "precio": 16,
+            "adquirido": false
+          },
+          {
+            "nombre": "atun",
+            "oferta": true,
+            "vigenciaOferta": [
+              "03/03/23",
+              "13/03/23"
+            ],
+            "ConsumoHabitual": true,
+            "unidades": 3,
+            "unidadMedida": "unidades",
+            "precio": 6,
+            "adquirido": true
+          },
+          {
+            "nombre": "olivas",
+            "oferta": false,
+            "ConsumoHabitual": false,
+            "unidades": 1,
+            "unidadMedida": "unidades",
+            "precio": 6,
+            "adquirido": false
+          }
+        ]
+      }
+    ],
+    "Carrefour": [
+      {
+        "productos": [
+          {
+            "nombre": "chocolate",
+            "oferta": true,
+            "vigenciaOferta": [
+              "05/03/23",
+              "15/03/23"
+            ],
+            "ConsumoHabitual": true,
+            "unidades": 1,
+            "unidadMedida": "unidades",
+            "precio": 1.5,
+            "adquirido": false
+          },
+          {
+            "nombre": "rosquillas",
+            "oferta": false,
+            "ConsumoHabitual": false,
+            "unidades": 6,
+            "unidadMedida": "unidades",
+            "precio": 4,
+            "adquirido": false
+          },
+          {
+            "nombre": "brócoli",
+            "oferta": true,
+            "vigenciaOferta": [
+              "25/03/23",
+              "30/03/23"
+            ],
+            "ConsumoHabitual": true,
+            "unidades": 1,
+            "unidadMedida": "unidades",
+            "precio": 1,
+            "adquirido": true
+          }
+        ]
+      }
+    ]
+  }   
